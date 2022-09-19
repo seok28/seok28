@@ -14,7 +14,11 @@
 <br><br><br>
 
 ## 💫 m e 
+ 
+<a href= "https://velog.io/@seok28">
 <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white">
+</a>
+  
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white">
 
 <br><br><br>
