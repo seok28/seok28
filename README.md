@@ -18,9 +18,10 @@
 <a href= "https://velog.io/@seok28">
 <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white">
 </a>
-  
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white">
 
+<a href ="seokjoonsoo@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white">
+</a>
 <br><br><br>
 <!--
 **seok28/seok28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
